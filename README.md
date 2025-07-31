@@ -41,6 +41,7 @@
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -49,6 +50,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
+![Clerk](https://img.shields.io/badge/-Clerk-05122A?style=flat&logo=clerk)
 
 
 ## 📫 Connect with Me
