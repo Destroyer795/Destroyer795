@@ -18,11 +18,11 @@
 ## 🛠 Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) 
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)  
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 
