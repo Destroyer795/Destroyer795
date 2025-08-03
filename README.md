@@ -10,8 +10,6 @@
 
 - 🎓 3rd-year Computer Science student at Amrita Vishwa Vidyapeetham  
 - 💻 I enjoy building full-stack applications and solving real-world problems  
-- 🧠 Currently exploring: backend architecture, MongoDB aggregations, TypeScript  
-- 📈 Practicing Data Structures & Algorithms on LeetCode
 - 🤖 Learning about AI, machine learning concepts, and how to build intelligent applications 
 ---
 
@@ -63,4 +61,4 @@
 
 ## ⚡ Fun Fact
 
-> I’m most motivated when I’m building something I don’t fully understand yet — because that’s where I learn the most.
+> I’m most motivated when I’m building something I don’t fully understand yet - because that’s where I learn the most.
