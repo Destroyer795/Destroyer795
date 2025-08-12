@@ -40,6 +40,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+![fastmcp](https://img.shields.io/badge/-fastmcp-05122A?style=flat&logo=python)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -49,7 +50,7 @@
 ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 ![Clerk](https://img.shields.io/badge/-Clerk-05122A?style=flat&logo=clerk)
-
+![ngrok](https://img.shields.io/badge/-ngrok-05122A?style=flat&logo=ngrok)
 
 ## 📫 Connect with Me
 
