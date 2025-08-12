@@ -1,16 +1,17 @@
 <h1 align="center">Hi, I'm Pranav </h1>
 
 <p align="center">
-  <em>Computer Science undergraduate | Full-Stack Developer | AI Enthusiast | Problem Solver</em>
+  <em>Computer Science undergraduate | Full-Stack Developer | AI Enthusiast</em>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 3rd-year Computer Science student at Amrita Vishwa Vidyapeetham  
-- 💻 I enjoy building full-stack applications and solving real-world problems  
-- 🤖 Learning about AI, machine learning concepts, and how to build intelligent applications 
+- 3rd-year Computer Science student at Amrita Vishwa Vidyapeetham  
+- I enjoy building full-stack applications and solving real-world problems  
+- Learning about AI, machine learning concepts, and how to build intelligent applications
+- Always eager to collaborate, learn, and share knowledge
 ---
 
 ## 🛠 Tech Stack
@@ -52,14 +53,14 @@
 ![Clerk](https://img.shields.io/badge/-Clerk-05122A?style=flat&logo=clerk)
 ![ngrok](https://img.shields.io/badge/-ngrok-05122A?style=flat&logo=ngrok)
 
-## 📫 Connect with Me
+## Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/pranav-kishan-bb46492a0)  
-- 💌 Email: ty.pranavkishan7905@gmail.com  
-- 🌐 Portfolio: coming soon...  
+- [LinkedIn](https://linkedin.com/in/pranav-kishan-bb46492a0)  
+- Email: ty.pranavkishan7905@gmail.com  
+- Portfolio: coming soon...  
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 > I’m most motivated when I’m building something I don’t fully understand yet - because that’s where I learn the most.
