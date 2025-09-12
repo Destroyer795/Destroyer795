@@ -10,7 +10,7 @@
 
 - 3rd-year Computer Science student at Amrita Vishwa Vidyapeetham  
 - I enjoy building full-stack applications and solving real-world problems  
-- Learning about AI, machine learning concepts, and how to build intelligent applications
+- Learning about AI, CI, machine learning concepts, and how to build intelligent applications
 - Always eager to collaborate, learn, and share knowledge
 ---
 
@@ -34,6 +34,7 @@
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-05122A?style=flat&logo=chakraui)
 ![Material UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=mui)
 ![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
 
 **Backend & Databases**  
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
@@ -52,6 +53,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 ![Clerk](https://img.shields.io/badge/-Clerk-05122A?style=flat&logo=clerk)
 ![ngrok](https://img.shields.io/badge/-ngrok-05122A?style=flat&logo=ngrok)
+![GCP](https://img.shields.io/badge/-Google_Cloud-05122A?style=flat&logo=googlecloud) 
 
 ## Connect with Me
 
