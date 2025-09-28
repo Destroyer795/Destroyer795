@@ -23,7 +23,9 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+
 
 
 **Frontend**  
