@@ -67,4 +67,4 @@
 
 ## Fun Fact
 
-> I’m most motivated when I’m building something I don’t fully understand yet - because that’s where I learn the most.
+> I'm most motivated when I'm working on something I don't fully understand yet, because that's where I learn the most.
