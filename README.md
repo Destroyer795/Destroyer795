@@ -16,8 +16,6 @@
 
 ## Tech Stack
 
-## Tech Stack
-
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
