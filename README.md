@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pranav </h1>
+<h1 align="center">Hello there, I'm Pranav </h1>
 
 <p align="center">
   <em>Computer Science undergraduate | Full-Stack Developer | AI Enthusiast</em>
@@ -9,8 +9,8 @@
 ## About Me
 
 - 3rd-year Computer Science student at Amrita Vishwa Vidyapeetham  
-- I enjoy building production-ready full-stack applications and solving real-world problems  
-- Currently exploring AI, Computational Intelligence, and machine learning concepts, with a focus on building intelligent, usable systems  
+- Focused on **Secure Backend Architecture** and **Systems Performance** 
+- Exploring Artificial Intelligence and machine learning concepts, with building intelligent, usable systems  
 - Always eager to collaborate, learn, and share knowledge
 ---
 
@@ -25,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![SQL](https://img.shields.io/badge/sql-05122A?style=flat&logo=postgresql&logoColor=white)
 
 **Frontend**  
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
@@ -42,6 +43,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
