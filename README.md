@@ -60,7 +60,7 @@
 
 ## Connect with Me
 
-<a href="https://linkedin.com/in/pranav-kishan-bb46492a0" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50" width="50" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pranav-kishan-t-y-bb46492a0/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50" width="50" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:ty.pranavkishan7905@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="50" width="50" alt="Gmail" /></a>
 ---
 
