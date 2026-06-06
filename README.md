@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 3rd-year Computer Science student at Amrita Vishwa Vidyapeetham  
+- 4th-year Computer Science and Engineering Undergrad at Amrita Vishwa Vidyapeetham  
 - Focused on **Secure Backend Architecture** and **Systems Performance** 
 - Exploring Artificial Intelligence and machine learning concepts, with building intelligent, usable systems  
 - Always eager to collaborate, learn, and share knowledge
