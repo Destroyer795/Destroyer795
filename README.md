@@ -1,20 +1,21 @@
 <h1 align="center">Hello there, I'm Pranav </h1>
 
 <p align="center">
-  <em>Computer Science undergraduate | Full-Stack Developer | AI Enthusiast</em>
+  <em>Computer Science Undergrad | Backend & DevOps Engineer | Systems Enthusiast</em>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## About Me
 
-- 4th-year Computer Science and Engineering Undergrad at Amrita Vishwa Vidyapeetham  
-- Focused on **Secure Backend Architecture** and **Systems Performance** 
-- Exploring Artificial Intelligence and machine learning concepts, with building intelligent, usable systems  
-- Always eager to collaborate, learn, and share knowledge
----
+- 4th-year Computer Science and Engineering Undergrad at Amrita Vishwa Vidyapeetham.
+- Focused on **Secure Backend Architecture** and the trade-offs involved in system performance, reliability, and scalability.
+- Exploring **Computer Networks** and **Distributed Systems**.
+- Always eager to collaborate, learn, and share knowledge :)
 
-## Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## 🛠️ Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -58,12 +59,31 @@
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-05122A?style=flat&logo=googlecloud)
 ![fastmcp](https://img.shields.io/badge/-fastmcp-05122A?style=flat&logo=python)
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## Featured Projects
+
+*   **[Netwatchpy](https://github.com/Destroyer795/Netwatchpy-package)**: Authored and currently maintain this cross-platform TUI for real-time network monitoring on PyPI, which has accumulated over **12,000 total downloads**.
+*   **[InfoStuffs](https://github.com/Destroyer795/InfoStuffs)**: Designed a zero-knowledge personal information manager utilizing client-side AES-256 encryption, built entirely on a serverless architecture.
+*   **[SurplusSync](https://github.com/SurplusSync/Food-Redistribution-Platform)**: Acting as Scrum Master and DevOps Engineer for a real-time food redistribution platform. Responsible for orchestrating CI pipelines and automated disaster recovery protocols.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## Hackathons & Achievements
+
+* Secured a **Top 75** global finish in **Code with Cisco**.
+* Placed **39th out of 25,000+ participants** in the **Puch.AI Hackathon** by engineering an MCP Agentic Microservice.
+* Selected as a **Finalist** in the **InnovaHack Hackathon** (Ongoing).
+* Semi-Finalist in the Devtrails Hackathon.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/pranav-kishan-t-y-bb46492a0/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50" width="50" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:ty.pranavkishan7905@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="50" width="50" alt="Gmail" /></a>
----
 
-## Fun Fact
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+## 💡 Fun Fact
 
 > I'm most motivated when I'm working on something I don't fully understand yet, because that's where I learn the most.
