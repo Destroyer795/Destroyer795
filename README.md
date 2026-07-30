@@ -84,6 +84,7 @@
 <a href="mailto:ty.pranavkishan7905@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="50" width="50" alt="Gmail" /></a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-## 💡 Fun Fact
+
+## Fun Fact
 
 > I'm most motivated when I'm working on something I don't fully understand yet, because that's where I learn the most.
