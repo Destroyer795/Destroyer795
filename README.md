@@ -73,7 +73,7 @@
 
 * Secured a **Top 75** global finish in **Code with Cisco**.
 * Placed **39th out of 25,000+ participants** in the **Puch.AI Hackathon** by engineering an MCP Agentic Microservice.
-* Selected as a **Finalist** in the **InnovaHack Hackathon** (Ongoing).
+* Selected as a **Finalist** in the **InnovaHack Hackathon**.
 * Semi-Finalist in the Devtrails Hackathon.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
