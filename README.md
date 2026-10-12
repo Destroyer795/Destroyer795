@@ -63,7 +63,7 @@
 
 ## Featured Projects
 
-*   **[Netwatchpy](https://github.com/Destroyer795/Netwatchpy-package)**: Authored and currently maintain this cross-platform TUI for real-time network monitoring on PyPI, which has accumulated over **14,000 total downloads**.
+*   **[Netwatchpy](https://github.com/Destroyer795/Netwatchpy-package)**: Authored and currently maintain this cross-platform TUI for real-time network monitoring on PyPI, which has accumulated over **15,000 total downloads**.
 *   **[InfoStuffs](https://github.com/Destroyer795/InfoStuffs)**: Designed a zero-knowledge personal information manager utilizing client-side AES-256 encryption, built entirely on a serverless architecture.
 *   **[SurplusSync](https://github.com/SurplusSync/Food-Redistribution-Platform)**: Acted as Scrum Master and DevOps Engineer for a real-time food redistribution platform. Responsible for orchestrating CI pipelines and automated disaster recovery protocols.
 
